@@ -87,7 +87,7 @@ Anaconda Distribution:
 
   Step 0:
   ```bash
-  https://github.com/aadeshpall/Hand-Gesture-Mouse-Controller.git
+  https://github.com/Divyajeet0705/Gesturesflow-Virtual-Mouse-.git
   ```
 
   Step 1: 
@@ -128,5 +128,4 @@ Step 3:
 
 ## Contact
 
-- Email: aadeshvinodpal@gmail.com
-- Linkedin: https://www.linkedin.com/in/niranjanpal/
+- Email: divyajeett2@gmail.com
